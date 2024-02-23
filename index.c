@@ -83,7 +83,7 @@ void nowshowing()
      printf("\nHow many seats?\n");
      printf("NORMAL-X Rs.\nEXECUTIVE-Y Rs.\nVIP-Z Rs.\n");
      scanf("%d",&seat);
-     printf("'SELECT SEATS' \n");
+     printf("THANKYOU!! HAVE A NICE DAY \n");
      }
      else
         printf("INVALID INPUT!!");
